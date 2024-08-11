@@ -23,3 +23,4 @@ svgpathtools==1.6.1
 svgwrite==1.4.3
 Werkzeug==3.0.3
 zipp==3.19.2
+gunicorn
